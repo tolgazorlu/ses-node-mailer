@@ -1,0 +1,12 @@
+{
+  "title": "Important Announcement",
+  "subject": "Company Update Newsletter",
+  "message": "We are excited to share our latest company updates with you. Stay tuned for more exciting news and developments!",
+  "callToAction": {
+    "text": "Read More Updates",
+    "link": "https://example.com/updates"
+  },
+  "senderName": "The Management Team",
+  "footerText": "© 2024 Your Company. All rights reserved.",
+  "unsubscribeLink": "https://example.com/unsubscribe"
+}

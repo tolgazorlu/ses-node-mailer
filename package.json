@@ -1,0 +1,18 @@
+{
+  "name": "ses-node-mailer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@aws-sdk/client-ses": "^3.741.0",
+    "aws-sdk": "^2.1692.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
